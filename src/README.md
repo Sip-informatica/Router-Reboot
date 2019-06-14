@@ -1,5 +1,5 @@
 # Configuración 
-El archivo de configuración es variables.h 
+El archivo de configuración es `variables.h`
 >Las variables más relvantes son:
 ```c
 // Esperar
