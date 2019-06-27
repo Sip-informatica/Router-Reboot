@@ -27,5 +27,5 @@ El objetivo de este proyecto es construir un dispositivo que al detectar un fall
 
 # 7. Manual de usuario
 
-### [Manual de usuario](doc/manual_usuario.pdf)
+### [Manual de usuario](doc/Manual_Usuario-Router_Reboot.pdf)
 
